@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.result {
+  height: 60px;
+  background-color: #f3f1f1;
+  width: 100%;
+  text-align: right;
+}
+
+.result p {
+  font-size: 28px;
+  margin: 0px 22px 0px 22px;
+}
+
+.expression {
+  height: 60px;
+  background-color: #f3f1f1;
+  width: 100%;
+  text-align: right;
+}
+
+.expression p {
+  font-size: 40px;
+  margin: 0px 22px 0px 22px;
+}
+
+.calculator {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  background-color: #f3f1f1;
+  border-width: 0px;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
+
+.display {
+  border-bottom: floralwhite;
+  border-width: 2px;
+  border-style: groove;
+}
+
+.keyPad {
+  border: floralwhite;
+  border-width: 1px;
+  border-style: groove;
+}
+
